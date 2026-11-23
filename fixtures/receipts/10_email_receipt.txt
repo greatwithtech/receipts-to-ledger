@@ -1,0 +1,10 @@
+From: billing@pacificwebhosting.example
+Subject: Your receipt — October 2026
+
+Thanks for your payment!
+
+Date: 10/01/2026
+Amount charged: $29.00
+Payment method: ACH
+Description: Pro hosting plan (monthly)
+Invoice ID: INV-2026-5521

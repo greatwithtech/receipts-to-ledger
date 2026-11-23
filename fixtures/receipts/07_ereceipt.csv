@@ -1,0 +1,5 @@
+order_date,merchant,line,qty,unit_price,tax_collected,total_charged,tender
+2026-11-11,Golden Gate Packers,Bubble wrap 100ft,1,18.99,,,
+2026-11-11,Golden Gate Packers,Boxes medium x10,1,32.5,,,
+2026-11-11,Golden Gate Packers,Packing tape,2,4.29,,,
+2026-11-11,Golden Gate Packers,,,,5.26,65.33,VISA ****4821
